@@ -1,6 +1,6 @@
 import { Flex, Box } from "@chakra-ui/react";
 import {Header} from "../components/header"
-import React, { Component, useState } from 'react'
+import React, { Component } from 'react'
 import { Products } from '../components/products'
 import { Clicker } from '../components/clicker'
 

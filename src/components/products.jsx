@@ -106,14 +106,8 @@ description: "Increase your cookie speed/s and your clicking Power by"
 ]
 };
 
-    addAProduct = (product) => {
-        let count = product;
-        count +=1;
-        
-    }
-
 showNumberOfUpdates = (name, numberBought) => {
-    if (numberBought != 0) {
+    if (numberBought !== 0) {
         return (<Text fontSize="sm"> You have {numberBought} {name}</Text>)
 }
 };

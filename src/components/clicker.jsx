@@ -1,4 +1,4 @@
-import React, { Component, useState} from 'react'
+import React from 'react'
 import { Image, Heading , Flex} from "@chakra-ui/react"
 
 export const Clicker = (clicking,number, strength, speed) => (
