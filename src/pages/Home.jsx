@@ -27,8 +27,6 @@ buyProduct=(powerClick, powerSpeed,price)=>{
     strength += powerClick;
     speed += powerSpeed;
     this.setState({ clickingStrength: strength, clickingPerSec: speed, number });
-    // this.setState({ clickingPerSec: speed  });
-    // this.setState({ number});
 }
 
 clickingInterval = setInterval(() => {
