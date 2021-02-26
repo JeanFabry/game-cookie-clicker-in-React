@@ -26,4 +26,4 @@ What you need to get started ...
 - React.js
 ## Final Result
 You can find the website [here](https://jeanfabry.github.io/game-cookie-clicker-in-React/)
-[![image preview]()](https://jeanfabry.github.io/game-cookie-clicker-in-React/)
+[![image preview](https://github.com/JeanFabry/game-cookie-clicker-in-React/blob/master/public/preview.png)](https://jeanfabry.github.io/game-cookie-clicker-in-React/)
